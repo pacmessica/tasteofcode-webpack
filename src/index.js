@@ -1,6 +1,4 @@
-// import App from './App'
-//
-// const app = new App()
-// app.render()
+import App from './App'
 
-document.write('<h1>Hello, World!</h1>')
+const app = new App()
+app.render()
