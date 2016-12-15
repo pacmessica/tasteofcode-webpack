@@ -1,5 +1,6 @@
 import $ from 'jquery'
 import './Balloon.sass'
+import PopSound from './PopSound'
 
 export default class Balloon {
   static colors = [
